@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J5,Conn_01x05_MountingPin,JST_GH_SM05B-GHS-TB_1x05-1MP_P1.25mm_Horizontal,70.5,-26.0,-90.0,bottom
+J6,Conn_01x05_MountingPin,JST_GH_SM05B-GHS-TB_1x05-1MP_P1.25mm_Horizontal,23.5,-26.0,90.0,bottom
+SW1,SW_DIP_x04,4P_DIP,41.0,-26.0,180.0,top
+SW2,SW_DIP_x04,4P_DIP,53.0,-26.0,180.0,top
