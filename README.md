@@ -1,5 +1,8 @@
 # Rack-Fan-Controller
 a controller that can monitor temperature in rack enclosures and control fans
 
-## WARNING
-2023-05-07 just noticed the power switch p channel fets are backwards. I'll issue a fix ASAP
+2023-10-25 files have been updated and all JLCPCB PCBa files have now been included.
+
+fan controller is a 4 layer PCB
+
+breakout is 2 layers
