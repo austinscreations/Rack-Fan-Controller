@@ -1,0 +1,1 @@
+fan controller has been upgraded to kicad 7 format

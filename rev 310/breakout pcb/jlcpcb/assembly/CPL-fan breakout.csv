@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J2,Conn_01x04_MountingPin,JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal,34.77,-56.505,0.0,top
+Q1,2N3904,TSOT-23,36.575,-22.9,0.0,top
+RJ45-1,R-RJ45S08P-B000,R-RJ45S08P-B000,29.89,-37.01,-90.0,top

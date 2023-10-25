@@ -1,0 +1,1 @@
+fan breakout has been upgraded to kicad 7 format

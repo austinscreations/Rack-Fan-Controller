@@ -1,0 +1,8 @@
+Comment,Designator,Footprint,LCSC
+2N3904,Q1,TSOT-23,C18536
+Conn_01x04_MountingPin,J2,JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal,C225113
+R-RJ45S08P-B000,RJ45-1,R-RJ45S08P-B000,C386763
+MountingHole,H2,MountingHole_3.2mm_M3,
+MountingHole,H1,MountingHole_3.2mm_M3,
+Conn_01x04,J1,PinHeader_1x04_P2.54mm_Vertical,
+Creations_logo_med,LOGO1,Creations logo med,
